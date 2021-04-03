@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using DevCars.API.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 namespace DevCars.API
 {
@@ -27,7 +28,13 @@ namespace DevCars.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<DevCarsDbContext>();
+            /*Foi usado para testar a API em memoria sem o EF Core.
+              Foi utilizado o Singleton para manter em memoria um unica instancia do DevCarsDbContext*/
+            //services.AddSingleton<DevCarsDbContext>();
+            
+            //Obtem a string de conexão do appsettings
+            var connectionString = Configuration.GetConnectionString("DevCarsConnectionString");
+            services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
