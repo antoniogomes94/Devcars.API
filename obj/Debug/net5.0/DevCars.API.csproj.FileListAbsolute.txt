@@ -1,124 +1,124 @@
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/appsettings.Development.json
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/appsettings.json
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.deps.json
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.json
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.dev.json
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/ref/DevCars.API.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.pdb
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Humanizer.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Newtonsoft.Json.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Runtime.Caching.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.csprojAssemblyReference.cache
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.GeneratedMSBuildEditorConfig.editorconfig
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfoInputs.cache
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfo.cs
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.csproj.CoreCompileInputs.cache
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cs
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cache
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.Manifest.cache
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.xml
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/scopedcss/bundle/DevCars.API.styles.css
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.RazorTargetAssemblyInfo.cache
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.csproj.CopyComplete
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/ref/DevCars.API.dll
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.pdb
-/home/dev/Downloads/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.genruntimeconfig.cache
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/appsettings.Development.json
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/appsettings.json
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/DevCars.API
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/DevCars.API.deps.json
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.json
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.dev.json
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/DevCars.API.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/ref/DevCars.API.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/DevCars.API.pdb
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Humanizer.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Newtonsoft.Json.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/System.Runtime.Caching.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.csprojAssemblyReference.cache
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.GeneratedMSBuildEditorConfig.editorconfig
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfoInputs.cache
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfo.cs
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.csproj.CoreCompileInputs.cache
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cs
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cache
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.Manifest.cache
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.xml
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/scopedcss/bundle/DevCars.API.styles.css
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.RazorTargetAssemblyInfo.cache
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.csproj.CopyComplete
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/ref/DevCars.API.dll
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.pdb
-/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/DevCars.API/obj/Debug/net5.0/DevCars.API.genruntimeconfig.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/appsettings.Development.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/appsettings.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.deps.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.dev.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/ref/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/DevCars.API.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Humanizer.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.csprojAssemblyReference.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfoInputs.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfo.cs
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.csproj.CoreCompileInputs.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cs
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.Manifest.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.xml
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/scopedcss/bundle/DevCars.API.styles.css
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.RazorTargetAssemblyInfo.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.csproj.CopyComplete
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/ref/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/bkp/bootcamp3_devcars-master/DevCars.API/obj/Debug/net5.0/DevCars.API.genruntimeconfig.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/appsettings.Development.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/appsettings.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/DevCars.API
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/DevCars.API.deps.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/DevCars.API.runtimeconfig.dev.json
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/ref/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/DevCars.API.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Humanizer.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.csprojAssemblyReference.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfoInputs.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.AssemblyInfo.cs
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.csproj.CoreCompileInputs.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cs
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.MvcApplicationPartsAssemblyInfo.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.Manifest.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/staticwebassets/DevCars.API.StaticWebAssets.xml
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/scopedcss/bundle/DevCars.API.styles.css
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.RazorTargetAssemblyInfo.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.csproj.CopyComplete
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/ref/DevCars.API.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.pdb
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.genruntimeconfig.cache

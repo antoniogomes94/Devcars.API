@@ -5974,11 +5974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/Devcars.API/DevCars.API.csproj",
+      "projectUniqueName": "/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/DevCars.API.csproj",
       "projectName": "DevCars.API",
-      "projectPath": "/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/Devcars.API/DevCars.API.csproj",
+      "projectPath": "/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/DevCars.API.csproj",
       "packagesPath": "/home/dev/.nuget/packages/",
-      "outputPath": "/home/dev/Documentos/Desenv/Bootcamo LuizDev Dotnet Core/Devcars.API/obj/",
+      "outputPath": "/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dev/.nuget/NuGet/NuGet.Config"
