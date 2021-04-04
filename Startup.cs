@@ -1,18 +1,18 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using DevCars.API.Persistence;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using DevCars.API.Persistence;
-using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace DevCars.API
 {
@@ -28,13 +28,10 @@ namespace DevCars.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            /*Foi usado para testar a API em memoria sem o EF Core.
-              Foi utilizado o Singleton para manter em memoria um unica instancia do DevCarsDbContext*/
-            //services.AddSingleton<DevCarsDbContext>();
-            
-            //Obtem a string de conexão do appsettings
-            var connectionString = Configuration.GetConnectionString("DevCarsConnectionString");
-            services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString));
+            var connectionString = Configuration.GetConnectionString("DevCarsCs");
+
+            //services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString));
+            services.AddDbContext<DevCarsDbContext>(options => options.UseInMemoryDatabase("DevCars"));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

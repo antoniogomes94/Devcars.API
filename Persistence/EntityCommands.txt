@@ -1,0 +1,10 @@
+Criar migração ->
+dotnet ef migrations add Inicial -o Persistence/Migrations
+
+Atualizar o banco com a migração ->
+dotnet ef database update
+
+Criar migração em scrips ->
+dotnet ef migrations script 0 -o Persistence/Scripts/Inicial.sql
+obs: O zero é por que tem apenas um migração. Em outras situação tem que passar a migração inicial e final para gerar o scripts
+dotnet ef migrations scrips Inicial Migracao4 -o Persistence/Scrips/Ultima.sql

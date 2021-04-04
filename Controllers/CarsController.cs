@@ -3,10 +3,7 @@ using DevCars.API.InputModels;
 using DevCars.API.Persistence;
 using DevCars.API.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace DevCars.API.Controllers
 {
@@ -27,6 +24,7 @@ namespace DevCars.API.Controllers
             var cars = _dbContext.Cars;
 
             var carsViewModel = cars
+                .Where(c => c.Status == CarStatusEnum.Available)
                 .Select(c => new CarItemViewModel(c.Id, c.Brand, c.Model, c.Price))
                 .ToList();
 
@@ -78,6 +76,7 @@ namespace DevCars.API.Controllers
             var car = new Car(model.VinCode, model.Brand, model.Model, model.Year, model.Price, model.Color, model.ProductionDate);
 
             _dbContext.Cars.Add(car);
+
             _dbContext.SaveChanges();
 
             return CreatedAtAction(
@@ -95,7 +94,8 @@ namespace DevCars.API.Controllers
             // SE DADOS DE ENTRADA ESTIVEREM INCORRETOS, RETORNA 400 BAD REQUEST
             // SE NAO EXISTIR, RETORNA NOT FOUND 404
 
-            var car = _dbContext.Cars.SingleOrDefault(c => c.Id == id);
+            var car = _dbContext.Cars
+                .SingleOrDefault(c => c.Id == id);
 
             if (car == null)
             {
@@ -103,6 +103,7 @@ namespace DevCars.API.Controllers
             }
 
             car.Update(model.Color, model.Price);
+
             _dbContext.SaveChanges();
 
             return NoContent();
@@ -123,8 +124,9 @@ namespace DevCars.API.Controllers
             }
 
             car.SetAsSuspended();
+
             _dbContext.SaveChanges();
-            
+
             return NoContent();
         }
     }

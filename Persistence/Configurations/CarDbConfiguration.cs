@@ -22,9 +22,6 @@ namespace DevCars.API.Persistence.Configurations
             builder
                 .Property(c => c.ProductionDate)
                 .HasDefaultValueSql("getdate()");
-
-             /*Como definir o nome da tabela no banco de dados, se não configuar ele mantem o nome da classe.
-            builder.ToTable("TB_CAR");*/
         }
     }
 }

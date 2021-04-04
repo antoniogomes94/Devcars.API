@@ -44,8 +44,8 @@ namespace DevCars.API.Controllers
 
             var order = new Order(model.IdCar, model.IdCustomer, car.Price, extraItems);
 
-           _dbContext.Orders.Add(order);
-           _dbContext.SaveChanges();
+            _dbContext.Orders.Add(order);
+            _dbContext.SaveChanges();
 
             return CreatedAtAction(
                 nameof(GetOrder),
@@ -59,10 +59,10 @@ namespace DevCars.API.Controllers
         public IActionResult GetOrder(int id, int orderid)
         {
             var order = _dbContext.Orders
-                        .Include(o => o.ExtraItems)
-                        .SingleOrDefault(o => o.Id == orderid);
+                .Include(o => o.ExtraItems)
+                .SingleOrDefault(o => o.Id == orderid);
 
-            if(order == null)
+            if (order == null)
             {
                 return NotFound();
             }

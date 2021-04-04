@@ -7,8 +7,7 @@ namespace DevCars.API.Entities
 {
     public class Customer
     {
-         protected Customer(){}
-
+        protected Customer() { }
         public Customer(string fullName, string document, DateTime birthDate)
         {
             FullName = fullName;
