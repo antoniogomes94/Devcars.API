@@ -122,3 +122,6 @@
 /home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/ref/DevCars.API.dll
 /home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.pdb
 /home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.genruntimeconfig.cache
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/Dapper.dll
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/bin/Debug/net5.0/DevCars.API.xml
+/home/dev/Documentos/Desev/Bootcamp LuisDev/Devcars.API/obj/Debug/net5.0/DevCars.API.xml

@@ -11,7 +11,9 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace DevCars.API
@@ -30,25 +32,40 @@ namespace DevCars.API
         {
             var connectionString = Configuration.GetConnectionString("DevCarsCs");
 
-            services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString));
-            // services.AddDbContext<DevCarsDbContext>(options => options.UseInMemoryDatabase("DevCars"));
+            //services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString));
+             services.AddDbContext<DevCarsDbContext>(options => options.UseInMemoryDatabase("DevCars"));
 
             services.AddControllers();
+
             services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "DevCars.API", Version = "v1" });
-            });
+           {
+               c.SwaggerDoc("v1", new OpenApiInfo
+               {
+                   Title = "DevCars.API",
+                   Version = "v1",
+                   Contact = new OpenApiContact
+                   {
+                       Name = "Antonio Gomes",
+                       Email = "antoniogomes313@outlook.com",
+                       Url = new Uri("https://github.com/antoniogomes94")
+                   }
+               });
+
+               var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+               var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+               c.IncludeXmlComments(xmlPath);
+           });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
-            {
+            // if (env.IsDevelopment())
+            // {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "DevCars.API v1"));
-            }
+            //}
 
             app.UseHttpsRedirection();
 
